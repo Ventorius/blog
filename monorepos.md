@@ -42,4 +42,4 @@ Last but not least, Nx CLI provides us with bunch of commands useful for testing
 
 ![serve](serve.png)
 
-This will conclude the idea of monorepo and why we should or should not use it. Many companies use monorepos for their codebases and they have plethora of use cases. Nowadays there are far more pros than cons regarding monorepo usage.
+This will conclude the idea of monorepo and why we should or should not use it. Many companies use monorepos for their codebases and they have plethora of use cases. Nowadays there are far more pros than cons regarding monorepo usage, but it's always better to try than just read, so try it at https://nx.dev/
